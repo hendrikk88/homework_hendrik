@@ -12,7 +12,7 @@ let guaranteeRate = 0;
  * @returns {number} - Käenduse määr protsentides.
  */
 
-// Kõige lihtsam lahendus, mis arvutab käenduse määra osakaalu.
+// Siin oleks saanud seda natuke täiendada aga väga lihtne arvutus mis käenduse määra meile annab.
 function calculateGuaranteeRate() {
     guaranteeRate = (guaranteeAmount / loanAmount) * 100;
     return guaranteeRate; 
