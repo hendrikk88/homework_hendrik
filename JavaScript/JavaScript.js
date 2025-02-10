@@ -1,4 +1,4 @@
-// Muutujad
+// Muutujad 
 let loanAmount = 100000;
 let guaranteeAmount = 80000;
 let productCategory = "LG";
