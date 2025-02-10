@@ -1,4 +1,4 @@
--- 1. Koosta SQL päring, mis tagastab kõik kasutajad kelle enabled on false
+-- 1. Koosta SQL päring, mis tagastab kõik kasutajad kelle enabled on false 
 
 SELECT *
 FROM "user"
