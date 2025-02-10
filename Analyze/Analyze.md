@@ -39,7 +39,7 @@ Protsessi loogika on üles ehitatud selliselt, et andmed uuendatakse ainult siis
 2. Tehniline kavandamine
    - Määratakse vajalikud andmemudeli muudatused.
    - Kavandatakse mehhanism lepingu staatuse muutuse tuvastamiseks.
-   - Luakse andmete valideerimise ja logimise lahendus.
+   - Luuakse andmete valideerimise ja logimise lahendus.
 
 3. Arendus
    - Rakendatakse loogika muutunud andmete tuvastamiseks ja uuendamiseks.
