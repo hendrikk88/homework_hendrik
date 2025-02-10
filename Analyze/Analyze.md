@@ -10,8 +10,9 @@ Eesmärk on luua ja dokumenteerida protsess, mis haldab ettevõtte laenukäendus
 
 **Kohustuste Andmete Kontroll ja Võrdlus:**
 - Süsteem tuvastab lepingu unikaalse identifikaatori põhjal.
-- Süsteem kontrollib, kas kohustuste andmebaasis on juba olemas andmed sama lepingu kohta.
+- Süsteem kontrollib, kas kohustuste andmebaasis on juba olemas andmed sama lepingu kohta ning kohustused vajavad uuendamist.
 - Süsteem võrdleb olemasolevaid andmeid lepingu uute andmetega, et tuvastada, millised väljad on muutunud.
+- Vastasel juhul tühistatakse lepingu andmete muudatus ning edastatake uuesi laenuhaldurile üle vaatamiseks.
 - Ainult muutunud andmed salvestatakse uue sissekandena, et vältida andmete ülekirjutamist.
 
 **Andmete Uuendamine Kohustuste Andmebaasis**
